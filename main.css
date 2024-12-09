@@ -8,8 +8,10 @@ body {
    background: #d4efdf;
 }
 
-	<h1 style="color:#2471a3;">Clean Currents</h1>
-	font: 10pt/1.5em Helvetica,"Helvetica neue", Arial, sans-serif;
+h1 {
+  text-align: center;  
+  color: blue;        
+}
 nav{
     
 }
