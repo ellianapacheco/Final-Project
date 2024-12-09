@@ -26,7 +26,23 @@ nav{
   padding: 0;
   margin-right: 10px;
 }
-		
+aside{
+
+    float: left;
+	width: 420px;
+	min-height: 480px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: justify;
+    
+}
+
+section{
+	float: right;
+	width: 420px;
+   	padding-left: 20px;
+    text-align: justify;
+}		
 
 
 
