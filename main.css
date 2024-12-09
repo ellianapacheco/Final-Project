@@ -1,34 +1,39 @@
+/*Layout*/
 
 
-<!DOCTYPE html><html>
-	<head>
+body {
+	width: 890px;
+	margin: 0 auto;
+	font: 10pt/1.5em Helvetica,"Helvetica neue", Arial, sans-serif;
+   background: #F0F8FF;
+}
 
-		<title> HTML Final Project </title>
+nav{
+    
+}
 
-	<head>
+aside{
 
-<body>
+    float: left;
+	width: 420px;
+	min-height: 480px;
+    padding-right: 20px;
+    padding-top: 20px;
+    text-align: justify;
+    
+}
 
-<header>
-<h1>Clean Currents</h1>
-<h2>A New Innovation for Cleaner Oceans</h2>
-<header>
+section{
+	float: right;
+	width: 420px;
+   	padding-left: 20px;
+	border-left: 5px dotted #b2a497;
+    text-align: justify;
+}
 
-<nav>
-<ul>
-<li><a href="index.html">About Us</a>
-</li><li><a href="courses.html">Why Us?</a>
-</li><li><a href="resume.html">Our Team</a>
-</li><li><a href="contact.html">Products</a>
-</li><li><a href="http://unh.edu">Contact Us</a></li>
-</ul>
-</nav>
-
-<aside>
-
-<p> 
-<p>Clean Current was founded by Chantelle Peters in 2008. We originally sold underwater cameras to observe life under water, but later realized sea life was scared off by the technology. This led us to create a new product, creating a real-life looking robotic fish that observed the underwater life where pollution and waste is most common. From the data used with the robot, we can easily come up with a solution to prevent more waste from collecting here.</p>
-
-
-</body>
-</html>
+footer{
+	clear:both;
+	width:890px;
+	height: 100px;
+    text-align: center;
+}
