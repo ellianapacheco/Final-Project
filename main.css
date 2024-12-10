@@ -27,9 +27,9 @@ nav {
 aside{
 
     float: left;
-	width: 400px;
+	width: 300px;
 	min-height: 480px;
-    padding-right: 60px;
+    padding-right: 20px;
     padding-top: 40px;
     text-align: justify;
     
@@ -39,7 +39,7 @@ section{
 	float: right;
 	width: 400px;
     min-height: 480px;
-	padding-left: 20px;
+	padding-left: 10px;
     text-align: justify;
 }
 
