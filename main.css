@@ -5,9 +5,12 @@ body {
 	width: 890px;
 	margin: 0 auto;
 	font: 10pt/1.5em Helvetica,"Helvetica neue", Arial, sans-serif;
-   background: #d4efdf;
+   background: #91d898 ;
 }
-
+p {
+	text-align: center;      
+  color: white;              
+}
 h1 {
   text-align: center;      
   color: white;              
