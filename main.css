@@ -27,19 +27,19 @@ nav {
 aside{
 
     float: left;
-	width: 300px;
+	width: 420px;
 	min-height: 480px;
     padding-right: 20px;
-    padding-top: 40px;
+    padding-top: 20px;
     text-align: justify;
     
 }
 
 section{
 	float: right;
-	width: 400px;
+	width: 420px;
     min-height: 480px;
-	padding-left: 10px;
+	padding-left: 20px;
     text-align: justify;
 }
 
